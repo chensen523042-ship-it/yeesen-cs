@@ -7,7 +7,7 @@ import org.dromara.common.core.utils.StringUtils;
 /**
  * 用户类型
  *
- * @author Lion Li
+ * @author chensen
  */
 @Getter
 @AllArgsConstructor

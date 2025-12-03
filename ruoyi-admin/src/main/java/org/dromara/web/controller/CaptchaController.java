@@ -39,7 +39,7 @@ import java.util.LinkedHashMap;
 /**
  * 验证码操作处理
  *
- * @author Lion Li
+ * @author chensen
  */
 @SaIgnore
 @Slf4j

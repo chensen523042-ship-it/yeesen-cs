@@ -11,7 +11,7 @@ import org.dromara.common.core.utils.reflect.ReflectUtils;
  * 修改表信息初始化方式
  * 目前用于全局修改是否使用逻辑删除
  *
- * @author Lion Li
+ * @author chensen
  */
 public class PlusPostInitTableInfoHandler implements PostInitTableInfoHandler {
 

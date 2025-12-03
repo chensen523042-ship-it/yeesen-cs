@@ -15,7 +15,7 @@ import java.util.concurrent.*;
 /**
  * 线程池配置
  *
- * @author Lion Li
+ * @author chensen
  **/
 @Slf4j
 @AutoConfiguration

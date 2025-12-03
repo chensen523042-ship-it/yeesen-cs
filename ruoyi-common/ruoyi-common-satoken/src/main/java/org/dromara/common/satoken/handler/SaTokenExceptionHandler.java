@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RestControllerAdvice;
 /**
  * SaToken异常处理器
  *
- * @author Lion Li
+ * @author chensen
  */
 @Slf4j
 @RestControllerAdvice

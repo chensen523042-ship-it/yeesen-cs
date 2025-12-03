@@ -7,7 +7,7 @@ import lombok.NoArgsConstructor;
 /**
  * 缓存信息
  *
- * @author Lion Li
+ * @author chensen
  */
 @Data
 @NoArgsConstructor

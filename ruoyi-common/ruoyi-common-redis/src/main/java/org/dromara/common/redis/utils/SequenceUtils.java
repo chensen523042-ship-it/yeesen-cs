@@ -18,7 +18,7 @@ import java.time.temporal.TemporalAccessor;
 /**
  * 发号器工具类
  *
- * @author 秋辞未寒
+ * @author chensen
  * @date 2024-12-10
  */
 @NoArgsConstructor(access = AccessLevel.PRIVATE)

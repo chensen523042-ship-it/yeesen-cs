@@ -17,7 +17,7 @@ import java.util.List;
 /**
  * 用户表 数据层
  *
- * @author Lion Li
+ * @author chensen
  */
 public interface SysUserMapper extends BaseMapperPlus<SysUser, SysUserVo> {
 

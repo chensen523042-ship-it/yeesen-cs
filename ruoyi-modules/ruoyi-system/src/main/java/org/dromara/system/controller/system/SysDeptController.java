@@ -22,7 +22,7 @@ import java.util.List;
 /**
  * 部门信息
  *
- * @author Lion Li
+ * @author chensen
  */
 @Validated
 @RequiredArgsConstructor

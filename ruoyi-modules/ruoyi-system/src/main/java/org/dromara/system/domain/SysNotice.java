@@ -10,7 +10,7 @@ import lombok.EqualsAndHashCode;
 /**
  * 通知公告表 sys_notice
  *
- * @author Lion Li
+ * @author chensen
  */
 @Data
 @EqualsAndHashCode(callSuper = true)

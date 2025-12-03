@@ -6,7 +6,7 @@ import org.springframework.boot.web.servlet.support.SpringBootServletInitializer
 /**
  * web容器中进行部署
  *
- * @author Lion Li
+ * @author chensen
  */
 public class DromaraServletInitializer extends SpringBootServletInitializer {
 

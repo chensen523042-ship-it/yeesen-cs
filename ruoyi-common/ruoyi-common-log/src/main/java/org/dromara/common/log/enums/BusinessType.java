@@ -3,7 +3,7 @@ package org.dromara.common.log.enums;
 /**
  * 业务操作类型
  *
- * @author ruoyi
+ * @author chensen
  */
 public enum BusinessType {
     /**

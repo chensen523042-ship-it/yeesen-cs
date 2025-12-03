@@ -12,7 +12,7 @@ import java.util.Date;
 /**
  * 用户信息视图对象 sys_user
  *
- * @author Lion Li
+ * @author chensen
  */
 @Data
 public class ProfileUserVo implements Serializable {

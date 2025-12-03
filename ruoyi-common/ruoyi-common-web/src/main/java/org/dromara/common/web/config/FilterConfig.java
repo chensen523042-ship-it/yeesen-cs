@@ -14,7 +14,7 @@ import org.springframework.context.annotation.Bean;
 /**
  * Filter配置
  *
- * @author Lion Li
+ * @author chensen
  */
 @AutoConfiguration
 @EnableConfigurationProperties(XssProperties.class)

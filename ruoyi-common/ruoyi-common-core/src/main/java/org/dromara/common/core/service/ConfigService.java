@@ -3,7 +3,7 @@ package org.dromara.common.core.service;
 /**
  * 通用 参数配置服务
  *
- * @author Lion Li
+ * @author chensen
  */
 public interface ConfigService {
 

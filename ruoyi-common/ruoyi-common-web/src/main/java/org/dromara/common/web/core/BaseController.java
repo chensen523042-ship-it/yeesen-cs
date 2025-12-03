@@ -6,7 +6,7 @@ import org.dromara.common.core.utils.StringUtils;
 /**
  * web层通用数据处理
  *
- * @author Lion Li
+ * @author chensen
  */
 public class BaseController {
 

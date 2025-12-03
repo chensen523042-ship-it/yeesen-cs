@@ -25,7 +25,7 @@ import org.springframework.context.annotation.Primary;
 /**
  * 租户配置类
  *
- * @author Lion Li
+ * @author chensen
  */
 @EnableConfigurationProperties(TenantProperties.class)
 @AutoConfiguration(after = {RedisConfig.class})

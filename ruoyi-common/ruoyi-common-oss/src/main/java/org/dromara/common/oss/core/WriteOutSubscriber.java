@@ -5,7 +5,7 @@ import java.io.IOException;
 /**
  * 写出订阅器
  *
- * @author 秋辞未寒
+ * @author chensen
  */
 @FunctionalInterface
 public interface WriteOutSubscriber<T> {

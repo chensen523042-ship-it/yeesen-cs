@@ -32,7 +32,7 @@ import java.io.IOException;
 /**
  * 全局异常处理器
  *
- * @author Lion Li
+ * @author chensen
  */
 @Slf4j
 @RestControllerAdvice

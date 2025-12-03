@@ -20,7 +20,7 @@ import java.util.Date;
 /**
  * 通用配置
  *
- * @author Lion Li
+ * @author chensen
  */
 @AutoConfiguration
 public class ResourcesConfig implements WebMvcConfigurer {

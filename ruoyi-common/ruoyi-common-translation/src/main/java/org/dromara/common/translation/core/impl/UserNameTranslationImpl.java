@@ -9,7 +9,7 @@ import lombok.AllArgsConstructor;
 /**
  * 用户名翻译实现
  *
- * @author Lion Li
+ * @author chensen
  */
 @AllArgsConstructor
 @TranslationType(type = TransConstant.USER_ID_TO_NAME)

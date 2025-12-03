@@ -8,7 +8,7 @@ import org.dromara.common.core.utils.reflect.ReflectUtils;
 /**
  * 自定义枚举校验注解实现
  *
- * @author 秋辞未寒
+ * @author chensen
  * @date 2024-12-09
  */
 public class EnumPatternValidator implements ConstraintValidator<EnumPattern, String> {

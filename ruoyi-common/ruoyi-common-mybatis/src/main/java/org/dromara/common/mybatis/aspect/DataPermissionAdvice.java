@@ -12,7 +12,7 @@ import java.lang.reflect.Proxy;
 /**
  * 数据权限注解Advice
  *
- * @author 秋辞未寒
+ * @author chensen
  */
 @Slf4j
 public class DataPermissionAdvice implements MethodInterceptor {

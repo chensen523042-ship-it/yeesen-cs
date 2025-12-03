@@ -57,7 +57,7 @@ import java.util.concurrent.TimeUnit;
 /**
  * 认证
  *
- * @author Lion Li
+ * @author chensen
  */
 @Slf4j
 @SaIgnore

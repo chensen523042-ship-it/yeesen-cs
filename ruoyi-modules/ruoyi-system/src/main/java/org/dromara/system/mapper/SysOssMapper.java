@@ -7,7 +7,7 @@ import org.dromara.system.domain.vo.SysOssVo;
 /**
  * 文件上传 数据层
  *
- * @author Lion Li
+ * @author chensen
  */
 public interface SysOssMapper extends BaseMapperPlus<SysOss, SysOssVo> {
 }
